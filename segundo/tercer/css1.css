@@ -1,0 +1,11 @@
+.titulo{
+    text-align: center;
+    font-family: cursive;
+    font-size: 2em;         /*modificación tamaño de la letra*/
+    border:solid teal;
+    background-color: #FF6E03; /*agregando color con hexadecimal*/
+    color:white;
+    margin-top: 0.5%;
+    letter-spacing: 10px;
+}
+    
